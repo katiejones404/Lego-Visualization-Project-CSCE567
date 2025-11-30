@@ -15,6 +15,7 @@ Once those steps have been completed, come back to this file.
 
 From the root file, go to the SQLite_Code folder using
 - cd SQLite_Code
+
 In the Linux/Ubuntu command line, run
 - make all
 
