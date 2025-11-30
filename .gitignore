@@ -1,0 +1,4 @@
+*.db
+*.twb
+*.twbr
+RebrickableData/*.csv

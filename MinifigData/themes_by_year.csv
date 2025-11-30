@@ -1,0 +1,1538 @@
+year,parent_theme_id,parent_theme_name,num_sets
+1955,497,Books,1
+1956,497,Books,1
+1959,301,Other,1
+1960,365,System,1
+1960,497,Books,1
+1960,507,"Educational and Dacta",1
+1961,497,Books,1
+1961,507,"Educational and Dacta",1
+1963,507,"Educational and Dacta",1
+1965,301,Other,1
+1965,507,"Educational and Dacta",1
+1966,501,Gear,1
+1967,497,Books,1
+1967,501,Gear,1
+1968,497,Books,1
+1969,497,Books,1
+1969,507,"Educational and Dacta",1
+1970,497,Books,1
+1971,233,Train,1
+1972,405,Homemaker,1
+1972,504,Duplo,1
+1973,497,Books,1
+1973,507,"Educational and Dacta",1
+1974,363,Boat,1
+1974,501,Gear,1
+1975,465,"Universal Building Set",1
+1975,497,Books,1
+1976,433,Minitalia,1
+1976,598,Promotional,1
+1977,206,Seasonal,1
+1977,433,Minitalia,1
+1978,186,Castle,1
+1978,206,Seasonal,1
+1978,404,"Hobby Sets",1
+1978,443,"Service Packs",1
+1978,501,Gear,1
+1979,443,"Service Packs",1
+1980,405,Homemaker,1
+1981,598,Promotional,1
+1982,405,Homemaker,1
+1982,497,Books,1
+1983,186,Castle,1
+1983,443,"Service Packs",1
+1983,497,Books,1
+1984,507,"Educational and Dacta",1
+1985,206,Seasonal,1
+1985,497,Books,1
+1986,501,Gear,1
+1986,598,Promotional,1
+1987,1,Technic,1
+1988,559,"Value Packs",1
+1989,524,"Service Packs",1
+1989,559,"Value Packs",1
+1990,206,Seasonal,1
+1990,278,"Model Team",1
+1990,497,Books,1
+1990,559,"Value Packs",1
+1991,186,Castle,1
+1991,278,"Model Team",1
+1991,497,Books,1
+1991,501,Gear,1
+1991,559,"Value Packs",1
+1991,598,Promotional,1
+1992,408,"LEGO Brand Store",1
+1992,559,"Value Packs",1
+1993,559,"Value Packs",1
+1993,598,Promotional,1
+1994,278,"Model Team",1
+1995,206,Seasonal,1
+1995,278,"Model Team",1
+1995,501,Gear,1
+1996,278,"Model Team",1
+1996,524,"Service Packs",1
+1996,559,"Value Packs",1
+1997,233,Train,1
+1997,408,"LEGO Brand Store",1
+1997,497,Books,1
+1998,112,Racers,1
+1998,206,Seasonal,1
+1998,207,Advent,1
+1998,278,"Model Team",1
+1999,22,Creator,1
+1999,307,Aquazone,1
+1999,559,"Value Packs",1
+2000,22,Creator,1
+2000,126,Space,1
+2000,301,Other,1
+2000,398,"FIRST LEGO League",1
+2000,443,"Service Packs",1
+2000,559,"Value Packs",1
+2001,186,Castle,1
+2001,207,Advent,1
+2001,276,Sculptures,1
+2001,296,Adventurers,1
+2001,398,"FIRST LEGO League",1
+2001,425,"Legoland Parks",1
+2002,147,Pirates,1
+2002,207,Advent,1
+2002,258,Mindstorms,1
+2002,398,"FIRST LEGO League",1
+2002,465,"Universal Building Set",1
+2002,497,Books,1
+2002,598,Promotional,1
+2003,186,Castle,1
+2003,207,Advent,1
+2003,227,Christmas,1
+2003,304,"Alpha Team",1
+2003,398,"FIRST LEGO League",1
+2003,404,"Hobby Sets",1
+2003,598,Promotional,1
+2004,52,City,1
+2004,278,"Model Team",1
+2004,398,"FIRST LEGO League",1
+2005,233,Train,1
+2005,254,"Bulk Bricks",1
+2005,398,"FIRST LEGO League",1
+2005,441,Quatro,1
+2005,518,Mindstorms,1
+2005,599,"LEGO Exclusive",1
+2005,696,"Super Heroes Marvel",1
+2006,207,Advent,1
+2006,398,"FIRST LEGO League",1
+2006,697,Batman,1
+2007,206,Seasonal,1
+2007,233,Train,1
+2007,246,"Harry Potter",1
+2007,301,Other,1
+2007,397,Factory,1
+2007,398,"FIRST LEGO League",1
+2007,458,Sports,1
+2007,599,"LEGO Exclusive",1
+2008,50,Town,1
+2008,155,"Modular Buildings",1
+2008,206,Seasonal,1
+2008,301,Other,1
+2008,398,"FIRST LEGO League",1
+2008,535,"Collectible Minifigures",1
+2008,599,"LEGO Exclusive",1
+2009,155,"Modular Buildings",1
+2009,227,Christmas,1
+2009,233,Train,1
+2009,389,Exo-Force,1
+2009,398,"FIRST LEGO League",1
+2009,443,"Service Packs",1
+2010,147,Pirates,1
+2010,155,"Modular Buildings",1
+2010,398,"FIRST LEGO League",1
+2010,425,"Legoland Parks",1
+2010,443,"Service Packs",1
+2010,559,"Value Packs",1
+2011,155,"Modular Buildings",1
+2011,398,"FIRST LEGO League",1
+2011,576,"LEGO Ideas and CUUSOO",1
+2012,227,Christmas,1
+2012,398,"FIRST LEGO League",1
+2012,443,"Service Packs",1
+2012,598,Promotional,1
+2013,147,Pirates,1
+2013,155,"Modular Buildings",1
+2013,443,"Service Packs",1
+2013,576,"LEGO Ideas and CUUSOO",1
+2013,591,Juniors,1
+2014,126,Space,1
+2014,155,"Modular Buildings",1
+2014,398,"FIRST LEGO League",1
+2014,697,Batman,1
+2015,126,Space,1
+2015,155,"Modular Buildings",1
+2015,227,Christmas,1
+2015,518,Mindstorms,1
+2016,155,"Modular Buildings",1
+2016,186,Castle,1
+2016,276,Sculptures,1
+2016,425,"Legoland Parks",1
+2016,603,Scooby-Doo,1
+2017,155,"Modular Buildings",1
+2017,598,Promotional,1
+2018,155,"Modular Buildings",1
+2018,438,"Power Functions",1
+2018,578,"The LEGO Movie",1
+2018,686,"Chinese Traditional Festivals",1
+2019,155,"Modular Buildings",1
+2019,697,Batman,1
+2020,155,"Modular Buildings",1
+2020,227,Christmas,1
+2020,697,Batman,1
+2021,155,"Modular Buildings",1
+2021,227,Christmas,1
+2021,252,Architecture,1
+2021,258,Mindstorms,1
+2021,425,"Legoland Parks",1
+2021,697,Batman,1
+2022,155,"Modular Buildings",1
+2022,227,Christmas,1
+2022,425,"Legoland Parks",1
+2023,227,Christmas,1
+2023,252,Architecture,1
+2023,438,"Power Functions",1
+2023,697,Batman,1
+2023,766,Fortnite,1
+2024,252,Architecture,1
+2024,425,"Legoland Parks",1
+2024,688,DOTS,1
+2024,764,"The Legend of Zelda",1
+2025,147,Pirates,1
+2025,155,"Modular Buildings",1
+2025,227,Christmas,1
+2025,425,"Legoland Parks",1
+2025,474,Vikings,1
+2025,770,"Horizon Adventures",1
+2026,601,"Speed Champions",1
+year,,,1
+1962,497,Books,2
+1963,301,Other,2
+1964,497,Books,2
+1969,504,Duplo,2
+1970,504,Duplo,2
+1971,405,Homemaker,2
+1972,507,"Educational and Dacta",2
+1976,363,Boat,2
+1979,465,"Universal Building Set",2
+1980,497,Books,2
+1981,233,Train,2
+1982,507,"Educational and Dacta",2
+1982,598,Promotional,2
+1984,501,Gear,2
+1986,206,Seasonal,2
+1986,497,Books,2
+1987,598,Promotional,2
+1988,598,Promotional,2
+1992,206,Seasonal,2
+1993,278,"Model Team",2
+1994,559,"Value Packs",2
+1995,233,Train,2
+1996,258,Mindstorms,2
+1996,598,Promotional,2
+1997,278,"Model Team",2
+1997,529,Technic,2
+1998,233,Train,2
+1999,278,"Model Team",2
+1999,518,Mindstorms,2
+1999,598,Promotional,2
+2000,276,Sculptures,2
+2000,425,"Legoland Parks",2
+2000,754,Disney,2
+2001,258,Mindstorms,2
+2001,443,"Service Packs",2
+2001,518,Mindstorms,2
+2001,598,Promotional,2
+2002,126,Space,2
+2002,186,Castle,2
+2002,518,Mindstorms,2
+2002,529,Technic,2
+2003,34,"Make & Create",2
+2003,233,Train,2
+2003,258,Mindstorms,2
+2003,497,Books,2
+2003,529,Technic,2
+2004,207,Advent,2
+2004,233,Train,2
+2004,258,Mindstorms,2
+2004,425,"Legoland Parks",2
+2005,207,Advent,2
+2005,425,"Legoland Parks",2
+2006,50,Town,2
+2006,206,Seasonal,2
+2006,233,Train,2
+2006,254,"Bulk Bricks",2
+2006,317,"Avatar: The Last Airbender",2
+2006,385,"Dino Attack / Dino 2010",2
+2006,518,Mindstorms,2
+2007,155,"Modular Buildings",2
+2007,207,Advent,2
+2007,272,"SpongeBob SquarePants",2
+2007,276,Sculptures,2
+2007,408,"LEGO Brand Store",2
+2007,425,"Legoland Parks",2
+2007,559,"Value Packs",2
+2007,695,"Super Heroes DC",2
+2008,207,Advent,2
+2008,425,"Legoland Parks",2
+2008,518,Mindstorms,2
+2008,598,Promotional,2
+2009,207,Advent,2
+2009,272,"SpongeBob SquarePants",2
+2009,425,"Legoland Parks",2
+2009,599,"LEGO Exclusive",2
+2010,207,Advent,2
+2010,252,Architecture,2
+2010,560,Universe,2
+2010,599,"LEGO Exclusive",2
+2011,207,Advent,2
+2011,272,"SpongeBob SquarePants",2
+2011,438,"Power Functions",2
+2012,155,"Modular Buildings",2
+2012,186,Castle,2
+2012,272,"SpongeBob SquarePants",2
+2012,518,Mindstorms,2
+2012,524,"Service Packs",2
+2012,576,"LEGO Ideas and CUUSOO",2
+2013,438,"Power Functions",2
+2013,518,Mindstorms,2
+2014,34,"Make & Create",2
+2014,186,Castle,2
+2014,324,Bionicle,2
+2015,398,"FIRST LEGO League",2
+2015,524,"Service Packs",2
+2016,227,Christmas,2
+2016,607,Ghostbusters,2
+2016,617,"DC Super Hero Girls",2
+2017,227,Christmas,2
+2017,398,"FIRST LEGO League",2
+2018,227,Christmas,2
+2018,654,"The Powerpuff Girls",2
+2019,425,"Legoland Parks",2
+2019,507,"Educational and Dacta",2
+2020,258,Mindstorms,2
+2020,689,Minions,2
+2021,646,Xtra,2
+2021,694,"Brick Sketches",2
+2021,754,Disney,2
+2022,252,Architecture,2
+2022,694,"Brick Sketches",2
+2022,754,Disney,2
+2022,769,Botanicals,2
+2023,155,"Modular Buildings",2
+2024,768,Wednesday,2
+2025,686,"Chinese Traditional Festivals",2
+2025,693,"Monkie Kid",2
+2025,748,"Gabby's Dollhouse",2
+1955,301,Other,3
+1959,365,System,3
+1963,497,Books,3
+1966,301,Other,3
+1966,497,Books,3
+1969,411,Legoland,3
+1970,443,"Service Packs",3
+1970,465,"Universal Building Set",3
+1973,363,Boat,3
+1973,504,Duplo,3
+1975,404,"Hobby Sets",3
+1977,233,Train,3
+1977,405,Homemaker,3
+1977,598,Promotional,3
+1978,363,Boat,3
+1978,411,Legoland,3
+1979,186,Castle,3
+1979,405,Homemaker,3
+1980,507,"Educational and Dacta",3
+1980,668,Scala,3
+1981,186,Castle,3
+1981,497,Books,3
+1981,507,"Educational and Dacta",3
+1982,363,Boat,3
+1983,1,Technic,3
+1983,507,"Educational and Dacta",3
+1984,497,Books,3
+1985,1,Technic,3
+1985,186,Castle,3
+1985,598,Promotional,3
+1986,233,Train,3
+1986,278,"Model Team",3
+1986,524,"Service Packs",3
+1987,363,Boat,3
+1988,497,Books,3
+1989,186,Castle,3
+1989,390,Fabuland,3
+1989,497,Books,3
+1991,206,Seasonal,3
+1991,363,Boat,3
+1992,1,Technic,3
+1993,233,Train,3
+1994,233,Train,3
+1994,501,Gear,3
+1995,318,Belville,3
+1996,363,Boat,3
+1996,501,Gear,3
+1997,307,Aquazone,3
+1998,497,Books,3
+1998,598,Promotional,3
+1999,301,Other,3
+1999,529,Technic,3
+2000,258,Mindstorms,3
+2001,458,Sports,3
+2003,246,"Harry Potter",3
+2003,407,"Island Xtreme Stunts",3
+2003,425,"Legoland Parks",3
+2003,518,Mindstorms,3
+2003,524,"Service Packs",3
+2005,397,Factory,3
+2006,272,"SpongeBob SquarePants",3
+2006,318,Belville,3
+2006,458,Sports,3
+2006,474,Vikings,3
+2006,559,"Value Packs",3
+2007,318,Belville,3
+2008,272,"SpongeBob SquarePants",3
+2008,397,Factory,3
+2008,559,"Value Packs",3
+2009,524,"Service Packs",3
+2011,518,Mindstorms,3
+2011,599,"LEGO Exclusive",3
+2012,207,Advent,3
+2012,570,"Teenage Mutant Ninja Turtles",3
+2013,207,Advent,3
+2013,577,Minecraft,3
+2013,599,"LEGO Exclusive",3
+2014,207,Advent,3
+2014,252,Architecture,3
+2014,425,"Legoland Parks",3
+2015,207,Advent,3
+2015,252,Architecture,3
+2015,578,"The LEGO Movie",3
+2015,599,"LEGO Exclusive",3
+2016,207,Advent,3
+2016,398,"FIRST LEGO League",3
+2016,599,"LEGO Exclusive",3
+2016,621,Classic,3
+2017,207,Advent,3
+2017,576,"LEGO Ideas and CUUSOO",3
+2018,207,Advent,3
+2018,507,"Educational and Dacta",3
+2018,599,"LEGO Exclusive",3
+2018,669,Overwatch,3
+2019,680,"Stranger Things",3
+2019,686,"Chinese Traditional Festivals",3
+2020,425,"Legoland Parks",3
+2020,438,"Power Functions",3
+2020,599,"LEGO Exclusive",3
+2020,754,Disney,3
+2021,438,"Power Functions",3
+2021,683,"LEGO Originals",3
+2021,769,Botanicals,3
+2022,686,"Chinese Traditional Festivals",3
+2023,264,"Indiana Jones",3
+2023,706,Spider-Man,3
+2023,709,"LEGO Art",3
+2023,754,Disney,3
+2024,398,"FIRST LEGO League",3
+2024,706,Spider-Man,3
+2024,709,"LEGO Art",3
+2024,748,"Gabby's Dollhouse",3
+2024,769,Botanicals,3
+2025,252,Architecture,3
+2025,398,"FIRST LEGO League",3
+2025,706,Spider-Man,3
+2025,768,Wednesday,3
+2025,785,Nike,3
+1953,365,System,4
+1957,301,Other,4
+1967,233,Train,4
+1969,465,"Universal Building Set",4
+1970,433,Minitalia,4
+1971,465,"Universal Building Set",4
+1974,364,"Building Set with People",4
+1976,404,"Hobby Sets",4
+1978,233,Train,4
+1978,364,"Building Set with People",4
+1981,1,Technic,4
+1982,126,Space,4
+1983,598,Promotional,4
+1984,1,Technic,4
+1987,497,Books,4
+1988,465,"Universal Building Set",4
+1989,206,Seasonal,4
+1990,1,Technic,4
+1992,598,Promotional,4
+1994,186,Castle,4
+1994,318,Belville,4
+1995,147,Pirates,4
+1996,233,Train,4
+1997,147,Pirates,4
+1997,206,Seasonal,4
+1997,464,"Time Cruisers",4
+1998,258,Mindstorms,4
+1998,518,Mindstorms,4
+1999,206,Seasonal,4
+1999,497,Books,4
+2000,273,Studios,4
+2000,434,Ninja,4
+2000,598,Promotional,4
+2001,50,Town,4
+2001,147,Pirates,4
+2001,206,Seasonal,4
+2001,668,Scala,4
+2002,301,Other,4
+2002,463,Spybotics,4
+2002,475,Western,4
+2002,696,"Super Heroes Marvel",4
+2003,276,Sculptures,4
+2004,34,"Make & Create",4
+2004,440,Primo,4
+2005,497,Books,4
+2006,425,"Legoland Parks",4
+2006,441,Quatro,4
+2007,497,Books,4
+2008,252,Architecture,4
+2008,318,Belville,4
+2008,717,"Speed Racer",4
+2009,252,Architecture,4
+2009,301,Other,4
+2009,518,Mindstorms,4
+2010,439,"Power Miners",4
+2011,186,Castle,4
+2012,252,Architecture,4
+2013,252,Architecture,4
+2013,301,Other,4
+2013,432,"Master Builder Academy",4
+2013,502,Games,4
+2014,301,Other,4
+2014,576,"LEGO Ideas and CUUSOO",4
+2014,590,Fusion,4
+2015,301,Other,4
+2015,608,Disney,4
+2016,301,Other,4
+2016,576,"LEGO Ideas and CUUSOO",4
+2016,610,Brickheadz,4
+2018,252,Architecture,4
+2018,425,"Legoland Parks",4
+2018,576,"LEGO Ideas and CUUSOO",4
+2018,754,Disney,4
+2019,207,Advent,4
+2019,227,Christmas,4
+2019,671,Forma,4
+2020,207,Advent,4
+2020,252,Architecture,4
+2020,646,Xtra,4
+2020,694,"Brick Sketches",4
+2020,709,"LEGO Art",4
+2020,721,Icons,4
+2021,709,"LEGO Art",4
+2022,706,Spider-Man,4
+2022,709,"LEGO Art",4
+2022,724,Avatar,4
+2023,599,"LEGO Exclusive",4
+2023,748,"Gabby's Dollhouse",4
+2023,769,Botanicals,4
+2024,754,Disney,4
+2025,186,Castle,4
+2025,599,"LEGO Exclusive",4
+2025,754,Disney,4
+2025,766,Fortnite,4
+2025,772,Bluey,4
+2026,497,Books,4
+1949,365,System,5
+1965,497,Books,5
+1971,433,Minitalia,5
+1976,507,"Educational and Dacta",5
+1978,405,Homemaker,5
+1978,465,"Universal Building Set",5
+1978,504,Duplo,5
+1980,1,Technic,5
+1980,126,Space,5
+1980,390,Fabuland,5
+1982,1,Technic,5
+1982,465,"Universal Building Set",5
+1983,465,"Universal Building Set",5
+1986,186,Castle,5
+1988,1,Technic,5
+1988,186,Castle,5
+1988,443,"Service Packs",5
+1991,147,Pirates,5
+1992,233,Train,5
+1994,598,Promotional,5
+1995,524,"Service Packs",5
+1995,529,Technic,5
+1996,318,Belville,5
+1996,440,Primo,5
+1996,464,"Time Cruisers",5
+1998,524,"Service Packs",5
+2000,318,Belville,5
+2000,497,Books,5
+2000,608,Disney,5
+2001,301,Other,5
+2001,318,Belville,5
+2002,273,Studios,5
+2003,696,"Super Heroes Marvel",5
+2005,246,"Harry Potter",5
+2005,318,Belville,5
+2005,474,Vikings,5
+2006,301,Other,5
+2008,258,Mindstorms,5
+2008,497,Books,5
+2008,695,"Super Heroes DC",5
+2009,258,Mindstorms,5
+2009,302,Agents,5
+2009,535,"Collectible Minifigures",5
+2010,126,Space,5
+2010,598,Promotional,5
+2011,252,Architecture,5
+2011,315,Atlantis,5
+2011,432,"Master Builder Academy",5
+2011,598,Promotional,5
+2011,695,"Super Heroes DC",5
+2012,599,"LEGO Exclusive",5
+2013,186,Castle,5
+2014,599,"LEGO Exclusive",5
+2015,577,Minecraft,5
+2018,398,"FIRST LEGO League",5
+2019,252,Architecture,5
+2019,559,"Value Packs",5
+2019,599,"LEGO Exclusive",5
+2019,621,Classic,5
+2019,646,Xtra,5
+2019,754,Disney,5
+2020,683,"LEGO Originals",5
+2020,686,"Chinese Traditional Festivals",5
+2021,207,Advent,5
+2021,599,"LEGO Exclusive",5
+2021,719,"BrickLink Designer Program",5
+2022,207,Advent,5
+2022,599,"LEGO Exclusive",5
+2022,719,"BrickLink Designer Program",5
+2023,207,Advent,5
+2023,559,"Value Packs",5
+2023,686,"Chinese Traditional Festivals",5
+2023,719,"BrickLink Designer Program",5
+2023,724,Avatar,5
+2024,507,"Educational and Dacta",5
+2024,621,Classic,5
+2024,686,"Chinese Traditional Festivals",5
+2024,763,"Despicable Me 4",5
+2024,765,Wicked,5
+2024,766,Fortnite,5
+2025,207,Advent,5
+2025,709,"LEGO Art",5
+2026,719,"BrickLink Designer Program",5
+1950,365,System,6
+1970,233,Train,6
+1974,233,Train,6
+1975,233,Train,6
+1975,364,"Building Set with People",6
+1979,504,Duplo,6
+1979,668,Scala,6
+1981,126,Space,6
+1981,390,Fabuland,6
+1981,504,Duplo,6
+1982,504,Duplo,6
+1984,465,"Universal Building Set",6
+1985,233,Train,6
+1989,507,"Educational and Dacta",6
+1992,126,Space,6
+1993,147,Pirates,6
+1995,307,Aquazone,6
+1995,440,Primo,6
+1996,186,Castle,6
+1997,318,Belville,6
+2000,206,Seasonal,6
+2001,304,"Alpha Team",6
+2001,754,Disney,6
+2003,1,Technic,6
+2004,441,Quatro,6
+2004,696,"Super Heroes Marvel",6
+2005,1,Technic,6
+2005,50,Town,6
+2007,1,Technic,6
+2007,258,Mindstorms,6
+2008,408,"LEGO Brand Store",6
+2008,524,"Service Packs",6
+2009,186,Castle,6
+2010,246,"Harry Potter",6
+2010,258,Mindstorms,6
+2010,270,"Ben 10",6
+2010,324,Bionicle,6
+2010,608,Disney,6
+2011,258,Mindstorms,6
+2013,398,"FIRST LEGO League",6
+2014,302,Agents,6
+2014,754,Disney,6
+2015,576,"LEGO Ideas and CUUSOO",6
+2016,606,"Angry Birds",6
+2017,252,Architecture,6
+2017,754,Disney,6
+2018,601,"Speed Champions",6
+2019,275,"Toy Story",6
+2019,438,"Power Functions",6
+2019,576,"LEGO Ideas and CUUSOO",6
+2019,601,"Speed Champions",6
+2020,576,"LEGO Ideas and CUUSOO",6
+2021,621,Classic,6
+2023,601,"Speed Champions",6
+2023,747,"Sonic The Hedgehog",6
+2024,207,Advent,6
+2024,599,"LEGO Exclusive",6
+2024,747,"Sonic The Hedgehog",6
+2025,621,Classic,6
+2025,765,Wicked,6
+2025,775,"One Piece",6
+1968,233,Train,7
+1974,465,"Universal Building Set",7
+1976,504,Duplo,7
+1977,1,Technic,7
+1986,390,Fabuland,7
+1987,186,Castle,7
+1988,390,Fabuland,7
+1989,1,Technic,7
+1989,465,"Universal Building Set",7
+1995,126,Space,7
+1995,186,Castle,7
+1996,307,Aquazone,7
+1996,475,Western,7
+1998,318,Belville,7
+1999,480,Znap,7
+1999,754,Disney,7
+2002,206,Seasonal,7
+2002,318,Belville,7
+2003,206,Seasonal,7
+2004,1,Technic,7
+2005,301,Other,7
+2005,440,Primo,7
+2006,500,Clikits,7
+2006,695,"Super Heroes DC",7
+2008,438,"Power Functions",7
+2008,632,Town,7
+2009,264,"Indiana Jones",7
+2010,497,Books,7
+2010,518,Mindstorms,7
+2011,507,"Educational and Dacta",7
+2012,34,"Make & Create",7
+2012,301,Other,7
+2012,481,Dino,7
+2013,435,Ninjago,7
+2013,598,Promotional,7
+2013,754,Disney,7
+2014,227,Christmas,7
+2014,518,Mindstorms,7
+2014,561,"The Hobbit and Lord of the Rings",7
+2014,608,Disney,7
+2015,754,Disney,7
+2016,252,Architecture,7
+2016,754,Disney,7
+2017,621,Classic,7
+2018,600,Elves,7
+2019,602,"Jurassic World",7
+2020,601,"Speed Champions",7
+2020,621,Classic,7
+2021,601,"Speed Champions",7
+2021,689,Minions,7
+2022,507,"Educational and Dacta",7
+2023,507,"Educational and Dacta",7
+2024,559,"Value Packs",7
+2025,752,"Animal Crossing",7
+1972,465,"Universal Building Set",8
+1973,405,Homemaker,8
+1973,433,Minitalia,8
+1974,405,Homemaker,8
+1975,504,Duplo,8
+1976,364,"Building Set with People",8
+1977,364,"Building Set with People",8
+1977,504,Duplo,8
+1983,390,Fabuland,8
+1990,186,Castle,8
+1990,443,"Service Packs",8
+1991,465,"Universal Building Set",8
+1993,465,"Universal Building Set",8
+1996,147,Pirates,8
+1996,399,Freestyle,8
+1998,501,Gear,8
+1999,233,Train,8
+1999,442,"Rock Raiders",8
+1999,524,"Service Packs",8
+2002,50,Town,8
+2002,425,"Legoland Parks",8
+2003,387,Discovery,8
+2004,304,"Alpha Team",8
+2004,318,Belville,8
+2006,1,Technic,8
+2007,524,"Service Packs",8
+2008,1,Technic,8
+2008,302,Agents,8
+2008,389,Exo-Force,8
+2009,438,"Power Functions",8
+2009,598,Promotional,8
+2010,754,Disney,8
+2011,246,"Harry Potter",8
+2012,507,"Educational and Dacta",8
+2013,34,"Make & Create",8
+2013,575,"The Lone Ranger",8
+2014,577,Minecraft,8
+2015,591,Juniors,8
+2016,577,Minecraft,8
+2016,601,"Speed Champions",8
+2017,599,"LEGO Exclusive",8
+2017,601,"Speed Champions",8
+2017,695,"Super Heroes DC",8
+2018,646,Xtra,8
+2019,246,"Harry Potter",8
+2021,576,"LEGO Ideas and CUUSOO",8
+2021,686,"Chinese Traditional Festivals",8
+2022,601,"Speed Champions",8
+2022,695,"Super Heroes DC",8
+2023,621,Classic,8
+2025,747,"Sonic The Hedgehog",8
+1958,301,Other,9
+1976,233,Train,9
+1977,465,"Universal Building Set",9
+1978,1,Technic,9
+1983,126,Space,9
+1983,233,Train,9
+1984,126,Space,9
+1984,186,Castle,9
+1986,1,Technic,9
+1990,507,"Educational and Dacta",9
+1992,186,Castle,9
+1992,465,"Universal Building Set",9
+1993,507,"Educational and Dacta",9
+1994,1,Technic,9
+1995,1,Technic,9
+1997,501,Gear,9
+1999,258,Mindstorms,9
+2000,442,"Rock Raiders",9
+2002,1,Technic,9
+2004,206,Seasonal,9
+2005,34,"Make & Create",9
+2005,206,Seasonal,9
+2006,507,"Educational and Dacta",9
+2007,126,Space,9
+2007,307,Aquazone,9
+2009,206,Seasonal,9
+2010,301,Other,9
+2010,502,Games,9
+2011,34,"Make & Create",9
+2011,112,Racers,9
+2011,301,Other,9
+2011,437,"Pharaoh's Quest",9
+2011,754,Disney,9
+2012,502,Games,9
+2013,227,Christmas,9
+2013,570,"Teenage Mutant Ninja Turtles",9
+2013,696,"Super Heroes Marvel",9
+2015,147,Pirates,9
+2015,302,Agents,9
+2015,601,"Speed Champions",9
+2015,602,"Jurassic World",9
+2015,603,Scooby-Doo,9
+2016,598,Promotional,9
+2017,507,"Educational and Dacta",9
+2017,577,Minecraft,9
+2018,697,Batman,9
+2019,301,Other,9
+2019,577,Minecraft,9
+2020,682,"Trolls: World Tour",9
+2021,602,"Jurassic World",9
+2022,576,"LEGO Ideas and CUUSOO",9
+2023,721,Icons,9
+2024,693,"Monkie Kid",9
+2025,695,"Super Heroes DC",9
+1970,365,System,10
+1972,233,Train,10
+1976,465,"Universal Building Set",10
+1980,443,"Service Packs",10
+1981,465,"Universal Building Set",10
+1982,50,Town,10
+1984,390,Fabuland,10
+1985,524,"Service Packs",10
+1987,390,Fabuland,10
+1987,507,"Educational and Dacta",10
+1988,504,Duplo,10
+1988,507,"Educational and Dacta",10
+1989,126,Space,10
+1989,598,Promotional,10
+1990,126,Space,10
+1991,1,Technic,10
+1992,147,Pirates,10
+1993,1,Technic,10
+1994,126,Space,10
+1994,465,"Universal Building Set",10
+1996,1,Technic,10
+1996,126,Space,10
+1997,186,Castle,10
+1997,668,Scala,10
+1999,501,Gear,10
+2002,407,"Island Xtreme Stunts",10
+2003,279,"4 Juniors",10
+2004,254,"Bulk Bricks",10
+2005,385,"Dino Attack / Dino 2010",10
+2005,632,Town,10
+2006,497,Books,10
+2009,502,Games,10
+2011,126,Space,10
+2012,1,Technic,10
+2012,269,Cars,10
+2012,754,Disney,10
+2014,435,Ninjago,10
+2015,621,Classic,10
+2017,600,Elves,10
+2017,608,Disney,10
+2017,617,"DC Super Hero Girls",10
+2018,577,Minecraft,10
+2018,608,Disney,10
+2018,621,Classic,10
+2019,669,Overwatch,10
+2020,246,"Harry Potter",10
+2023,693,"Monkie Kid",10
+2024,576,"LEGO Ideas and CUUSOO",10
+2024,601,"Speed Champions",10
+2024,719,"BrickLink Designer Program",10
+2024,752,"Animal Crossing",10
+1962,365,System,11
+1980,504,Duplo,11
+1991,507,"Educational and Dacta",11
+1996,507,"Educational and Dacta",11
+1997,399,Freestyle,11
+1997,475,Western,11
+1998,307,Aquazone,11
+1999,126,Space,11
+2000,465,"Universal Building Set",11
+2000,507,"Educational and Dacta",11
+2000,668,Scala,11
+2001,246,"Harry Potter",11
+2003,318,Belville,11
+2003,440,Primo,11
+2004,301,Other,11
+2007,186,Castle,11
+2009,1,Technic,11
+2009,497,Books,11
+2009,507,"Educational and Dacta",11
+2010,34,"Make & Create",11
+2010,186,Castle,11
+2011,1,Technic,11
+2012,112,Racers,11
+2013,425,"Legoland Parks",11
+2013,695,"Super Heroes DC",11
+2014,206,Seasonal,11
+2014,570,"Teenage Mutant Ninja Turtles",11
+2014,695,"Super Heroes DC",11
+2016,591,Juniors,11
+2017,604,Dimensions,11
+2017,632,Town,11
+2020,301,Other,11
+2020,602,"Jurassic World",11
+2021,577,Minecraft,11
+2021,721,Icons,11
+2022,621,Classic,11
+2022,693,"Monkie Kid",11
+2022,721,Icons,11
+2023,408,"LEGO Brand Store",11
+2023,688,DOTS,11
+2023,695,"Super Heroes DC",11
+1966,233,Train,12
+1974,411,Legoland,12
+1979,1,Technic,12
+1989,147,Pirates,12
+1991,233,Train,12
+1992,504,Duplo,12
+1993,126,Space,12
+1998,186,Castle,12
+1998,434,Ninja,12
+1998,480,Znap,12
+1999,318,Belville,12
+2001,158,"Star Wars",12
+2003,301,Other,12
+2008,126,Space,12
+2009,126,Space,12
+2010,1,Technic,12
+2012,206,Seasonal,12
+2012,432,"Master Builder Academy",12
+2013,1,Technic,12
+2013,126,Space,12
+2014,1,Technic,12
+2014,591,Juniors,12
+2014,598,Promotional,12
+2015,600,Elves,12
+2015,695,"Super Heroes DC",12
+2016,1,Technic,12
+2017,301,Other,12
+2019,398,"FIRST LEGO League",12
+2019,676,"Hidden Side",12
+2020,695,"Super Heroes DC",12
+2021,408,"LEGO Brand Store",12
+2021,693,"Monkie Kid",12
+1970,411,Legoland,13
+1987,524,"Service Packs",13
+1988,126,Space,13
+1991,126,Space,13
+1992,443,"Service Packs",13
+1993,186,Castle,13
+1994,147,Pirates,13
+1999,158,"Star Wars",13
+2001,279,"4 Juniors",13
+2006,158,"Star Wars",13
+2006,186,Castle,13
+2008,264,"Indiana Jones",13
+2009,147,Pirates,13
+2010,206,Seasonal,13
+2013,561,"The Hobbit and Lord of the Rings",13
+2015,1,Technic,13
+2015,206,Seasonal,13
+2016,600,Elves,13
+2018,206,Seasonal,13
+2019,683,"LEGO Originals",13
+2019,719,"BrickLink Designer Program",13
+2020,577,Minecraft,13
+2020,610,Brickheadz,13
+2022,301,Other,13
+2023,398,"FIRST LEGO League",13
+2024,695,"Super Heroes DC",13
+2025,576,"LEGO Ideas and CUUSOO",13
+2025,602,"Jurassic World",13
+1954,365,System,14
+1977,411,Legoland,14
+1986,504,Duplo,14
+1994,443,"Service Packs",14
+1997,1,Technic,14
+1999,296,Adventurers,14
+2000,440,Primo,14
+2001,1,Technic,14
+2002,22,Creator,14
+2004,246,"Harry Potter",14
+2004,632,Town,14
+2008,186,Castle,14
+2009,632,Town,14
+2012,22,Creator,14
+2012,558,"Monster Fighters",14
+2013,206,Seasonal,14
+2013,258,Mindstorms,14
+2017,1,Technic,14
+2018,1,Technic,14
+2018,598,Promotional,14
+2019,1,Technic,14
+2019,598,Promotional,14
+2020,1,Technic,14
+2020,398,"FIRST LEGO League",14
+2020,693,"Monkie Kid",14
+2022,246,"Harry Potter",14
+2024,408,"LEGO Brand Store",14
+2024,602,"Jurassic World",14
+2024,721,Icons,14
+1979,390,Fabuland,15
+1981,50,Town,15
+1983,50,Town,15
+1985,126,Space,15
+1985,443,"Service Packs",15
+1994,524,"Service Packs",15
+1995,443,"Service Packs",15
+1997,440,Primo,15
+1998,126,Space,15
+1999,668,Scala,15
+2002,279,"4 Juniors",15
+2003,507,"Educational and Dacta",15
+2006,258,Mindstorms,15
+2010,275,"Toy Story",15
+2010,400,"Hero Factory",15
+2011,502,Games,15
+2013,524,"Service Packs",15
+2016,206,Seasonal,15
+2016,608,Disney,15
+2017,206,Seasonal,15
+2018,602,"Jurassic World",15
+2018,605,"Nexo Knights",15
+2018,695,"Super Heroes DC",15
+2021,301,Other,15
+2021,695,"Super Heroes DC",15
+2023,576,"LEGO Ideas and CUUSOO",15
+2024,690,"Super Mario",15
+2025,610,Brickheadz,15
+2025,719,"BrickLink Designer Program",15
+2025,769,Botanicals,15
+1975,411,Legoland,16
+1983,504,Duplo,16
+1985,504,Duplo,16
+1987,126,Space,16
+1994,507,"Educational and Dacta",16
+1999,434,Ninja,16
+2001,507,"Educational and Dacta",16
+2002,233,Train,16
+2004,279,"4 Juniors",16
+2004,458,Sports,16
+2005,507,"Educational and Dacta",16
+2006,34,"Make & Create",16
+2006,632,Town,16
+2007,632,Town,16
+2008,34,"Make & Create",16
+2009,34,"Make & Create",16
+2010,22,Creator,16
+2011,608,Disney,16
+2014,408,"LEGO Brand Store",16
+2014,696,"Super Heroes Marvel",16
+2015,598,Promotional,16
+2016,518,Mindstorms,16
+2017,696,"Super Heroes Marvel",16
+2018,301,Other,16
+2019,610,Brickheadz,16
+2021,1,Technic,16
+2021,206,Seasonal,16
+2021,246,"Harry Potter",16
+2022,398,"FIRST LEGO League",16
+2023,602,"Jurassic World",16
+2025,301,Other,16
+2025,408,"LEGO Brand Store",16
+2025,749,Dreamzzz,16
+1956,365,System,17
+1972,411,Legoland,17
+1980,50,Town,17
+1982,390,Fabuland,17
+1984,50,Town,17
+1986,126,Space,17
+1989,504,Duplo,17
+1998,443,"Service Packs",17
+2001,112,Racers,17
+2001,254,"Bulk Bricks",17
+2001,386,Dinosaurs,17
+2002,304,"Alpha Team",17
+2007,158,"Star Wars",17
+2008,22,Creator,17
+2012,696,"Super Heroes Marvel",17
+2016,695,"Super Heroes DC",17
+2021,398,"FIRST LEGO League",17
+2021,610,Brickheadz,17
+2022,1,Technic,17
+2022,608,Disney,17
+2022,610,Brickheadz,17
+2025,601,"Speed Champions",17
+2025,721,Icons,17
+1963,365,System,18
+1971,365,System,18
+1984,443,"Service Packs",18
+1986,443,"Service Packs",18
+1991,443,"Service Packs",18
+1992,524,"Service Packs",18
+1998,440,Primo,18
+2003,500,Clikits,18
+2004,50,Town,18
+2006,389,Exo-Force,18
+2008,507,"Educational and Dacta",18
+2011,269,Cars,18
+2012,695,"Super Heroes DC",18
+2016,696,"Super Heroes Marvel",18
+2017,504,Duplo,18
+2017,591,Juniors,18
+2018,591,Juniors,18
+2019,695,"Super Heroes DC",18
+2023,1,Technic,18
+2023,246,"Harry Potter",18
+2023,610,Brickheadz,18
+2025,507,"Educational and Dacta",18
+2025,690,"Super Mario",18
+1965,365,System,19
+1979,50,Town,19
+1984,504,Duplo,19
+1985,390,Fabuland,19
+1992,507,"Educational and Dacta",19
+1995,465,"Universal Building Set",19
+1997,126,Space,19
+1998,399,Freestyle,19
+1999,440,Primo,19
+2000,296,Adventurers,19
+2001,440,Primo,19
+2002,246,"Harry Potter",19
+2002,440,Primo,19
+2004,507,"Educational and Dacta",19
+2007,34,"Make & Create",19
+2007,507,"Educational and Dacta",19
+2009,439,"Power Miners",19
+2010,315,Atlantis,19
+2011,22,Creator,19
+2015,696,"Super Heroes Marvel",19
+2018,246,"Harry Potter",19
+2019,22,Creator,19
+2019,206,Seasonal,19
+2019,608,Disney,19
+2024,610,Brickheadz,19
+2025,246,"Harry Potter",19
+1957,365,System,20
+1980,465,"Universal Building Set",20
+1988,50,Town,20
+1996,465,"Universal Building Set",20
+1999,443,"Service Packs",20
+2009,22,Creator,20
+2010,507,"Educational and Dacta",20
+2011,206,Seasonal,20
+2014,400,"Hero Factory",20
+2015,22,Creator,20
+2015,408,"LEGO Brand Store",20
+2016,324,Bionicle,20
+2018,22,Creator,20
+2018,696,"Super Heroes Marvel",20
+2020,22,Creator,20
+2020,408,"LEGO Brand Store",20
+2020,676,"Hidden Side",20
+2020,688,DOTS,20
+2021,504,Duplo,20
+2021,507,"Educational and Dacta",20
+2023,301,Other,20
+2023,504,Duplo,20
+2024,246,"Harry Potter",20
+2024,504,Duplo,20
+2025,206,Seasonal,20
+1987,50,Town,21
+1998,296,Adventurers,21
+2000,186,Castle,21
+2002,685,Galidor,21
+2004,112,Racers,21
+2005,500,Clikits,21
+2008,112,Racers,21
+2012,561,"The Hobbit and Lord of the Rings",21
+2016,507,"Educational and Dacta",21
+2020,504,Duplo,21
+2022,577,Minecraft,21
+2022,598,Promotional,21
+2023,749,Dreamzzz,21
+1987,504,Duplo,22
+1989,50,Town,22
+1990,465,"Universal Building Set",22
+1990,504,Duplo,22
+1995,50,Town,22
+1995,507,"Educational and Dacta",22
+1997,443,"Service Packs",22
+2013,22,Creator,22
+2013,400,"Hero Factory",22
+2013,507,"Educational and Dacta",22
+2016,22,Creator,22
+2017,22,Creator,22
+2017,610,Brickheadz,22
+2020,507,"Educational and Dacta",22
+2020,598,Promotional,22
+2020,608,Disney,22
+2022,504,Duplo,22
+2022,602,"Jurassic World",22
+1961,365,System,23
+1973,465,"Universal Building Set",23
+1991,50,Town,23
+1993,50,Town,23
+1996,443,"Service Packs",23
+1998,458,Sports,23
+1999,507,"Educational and Dacta",23
+2000,158,"Star Wars",23
+2001,22,Creator,23
+2002,254,"Bulk Bricks",23
+2009,504,Duplo,23
+2019,504,Duplo,23
+2019,696,"Super Heroes Marvel",23
+2021,598,Promotional,23
+2022,206,Seasonal,23
+2023,577,Minecraft,23
+2024,749,Dreamzzz,23
+2025,504,Duplo,23
+2025,608,Disney,23
+1967,365,System,24
+1993,504,Duplo,24
+1996,50,Town,24
+1997,465,"Universal Building Set",24
+1998,668,Scala,24
+2004,158,"Star Wars",24
+2006,112,Racers,24
+2007,112,Racers,24
+2008,158,"Star Wars",24
+2008,504,Duplo,24
+2011,504,Duplo,24
+2013,408,"LEGO Brand Store",24
+2014,22,Creator,24
+2023,206,Seasonal,24
+2024,22,Creator,24
+2024,608,Disney,24
+1969,233,Train,25
+1973,411,Legoland,25
+1981,443,"Service Packs",25
+1993,443,"Service Packs",25
+2000,458,Sports,25
+2001,126,Space,25
+2002,158,"Star Wars",25
+2003,50,Town,25
+2007,389,Exo-Force,25
+2007,504,Duplo,25
+2012,400,"Hero Factory",25
+2015,571,"Legends of Chima",25
+2018,408,"LEGO Brand Store",25
+2023,22,Creator,25
+2025,1,Technic,25
+2025,22,Creator,25
+1979,126,Space,26
+1985,50,Town,26
+1986,50,Town,26
+1986,465,"Universal Building Set",26
+1986,507,"Educational and Dacta",26
+1992,50,Town,26
+2003,112,Racers,26
+2016,604,Dimensions,26
+2018,625,Unikitty!,26
+2020,696,"Super Heroes Marvel",26
+2022,688,DOTS,26
+2023,690,"Super Mario",26
+1971,411,Legoland,27
+1999,465,"Universal Building Set",27
+2002,112,Racers,27
+2003,158,"Star Wars",27
+2006,22,Creator,27
+2010,112,Racers,27
+2011,52,City,27
+2011,408,"LEGO Brand Store",27
+2016,408,"LEGO Brand Store",27
+2020,206,Seasonal,27
+2025,577,Minecraft,27
+1980,233,Train,28
+1985,465,"Universal Building Set",28
+1990,50,Town,28
+1995,399,Freestyle,28
+2003,296,Adventurers,28
+2015,324,Bionicle,28
+2023,598,Promotional,28
+1994,50,Town,29
+1998,1,Technic,29
+2005,158,"Star Wars",29
+2007,22,Creator,29
+2010,408,"LEGO Brand Store",29
+2011,400,"Hero Factory",29
+2014,578,"The LEGO Movie",29
+2018,504,Duplo,29
+2022,22,Creator,29
+2023,608,Disney,29
+2024,1,Technic,29
+2025,598,Promotional,29
+1976,411,Legoland,30
+1985,507,"Educational and Dacta",30
+1987,465,"Universal Building Set",30
+1999,504,Duplo,30
+2005,52,City,30
+2006,504,Duplo,30
+2009,408,"LEGO Brand Store",30
+2010,158,"Star Wars",30
+2012,504,Duplo,30
+2013,504,Duplo,30
+2024,577,Minecraft,30
+2024,598,Promotional,30
+1996,504,Duplo,31
+2003,254,"Bulk Bricks",31
+2005,112,Racers,31
+2005,186,Castle,31
+2006,52,City,31
+2015,604,Dimensions,31
+2016,504,Duplo,31
+2025,696,"Super Heroes Marvel",31
+1989,443,"Service Packs",32
+1994,504,Duplo,32
+1995,504,Duplo,32
+1997,504,Duplo,32
+2004,186,Castle,32
+2009,324,Bionicle,32
+2012,408,"LEGO Brand Store",32
+2013,494,Friends,32
+1982,443,"Service Packs",33
+1997,507,"Educational and Dacta",33
+1999,1,Technic,33
+2011,158,"Star Wars",33
+2012,494,Friends,33
+2020,690,"Super Mario",33
+2021,608,Disney,33
+2022,408,"LEGO Brand Store",33
+1968,365,System,34
+1978,50,Town,34
+2000,50,Town,34
+2011,497,Books,34
+2021,22,Creator,34
+2022,696,"Super Heroes Marvel",34
+1955,365,System,35
+1963,716,Modulex,35
+1964,365,System,35
+2000,501,Gear,35
+2004,504,Duplo,35
+2010,504,Duplo,35
+2015,504,Duplo,35
+2017,697,Batman,35
+2021,688,DOTS,35
+1991,504,Duplo,36
+2003,504,Duplo,36
+2005,22,Creator,36
+2007,324,Bionicle,36
+2014,504,Duplo,36
+2023,696,"Super Heroes Marvel",36
+1998,507,"Educational and Dacta",37
+2004,500,Clikits,37
+2005,504,Duplo,37
+2009,158,"Star Wars",37
+2010,52,City,37
+2019,408,"LEGO Brand Store",37
+2024,696,"Super Heroes Marvel",37
+1998,465,"Universal Building Set",38
+2001,233,Train,38
+2005,501,Gear,38
+2016,435,Ninjago,38
+2021,158,"Star Wars",38
+1969,365,System,39
+2004,501,Gear,39
+2007,52,City,39
+2008,324,Bionicle,39
+2009,52,City,39
+2010,535,"Collectible Minifigures",39
+2013,52,City,39
+2014,507,"Educational and Dacta",39
+2016,580,Mixels,39
+2001,501,Gear,40
+2003,22,Creator,40
+2017,605,"Nexo Knights",40
+2021,696,"Super Heroes Marvel",40
+2022,494,Friends,40
+2024,206,Seasonal,40
+2025,494,Friends,40
+2012,52,City,41
+2014,52,City,41
+2017,408,"LEGO Brand Store",41
+2019,578,"The LEGO Movie",41
+2022,158,"Star Wars",41
+2000,504,Duplo,42
+2002,324,Bionicle,42
+2014,580,Mixels,42
+2015,580,Mixels,42
+2022,690,"Super Mario",42
+2005,324,Bionicle,43
+2011,435,Ninjago,43
+2012,158,"Star Wars",43
+2013,158,"Star Wars",43
+2016,52,City,43
+2024,301,Other,43
+2025,435,Ninjago,43
+1998,504,Duplo,44
+2009,112,Racers,44
+2015,52,City,44
+2017,494,Friends,44
+2001,324,Bionicle,45
+2002,507,"Educational and Dacta",45
+2015,507,"Educational and Dacta",45
+2018,610,Brickheadz,45
+2021,435,Ninjago,45
+2022,435,Ninjago,45
+2023,435,Ninjago,45
+2001,273,Studios,46
+2004,22,Creator,46
+2008,52,City,46
+2020,158,"Star Wars",46
+2021,690,"Super Mario",46
+2025,158,"Star Wars",46
+2002,504,Duplo,47
+2012,435,Ninjago,47
+2014,158,"Star Wars",47
+2020,435,Ninjago,47
+2021,494,Friends,47
+2023,494,Friends,47
+1997,50,Town,48
+2014,494,Friends,48
+2016,494,Friends,48
+2018,52,City,48
+2018,435,Ninjago,48
+2021,535,"Collectible Minifigures",48
+2022,535,"Collectible Minifigures",48
+2023,158,"Star Wars",48
+2024,494,Friends,48
+2024,535,"Collectible Minifigures",48
+1998,50,Town,49
+2002,458,Sports,49
+2024,435,Ninjago,49
+2001,504,Duplo,50
+2019,435,Ninjago,50
+2021,713,VIDIYO,50
+2025,535,"Collectible Minifigures",50
+2004,324,Bionicle,51
+2015,494,Friends,51
+2017,52,City,51
+2019,494,Friends,51
+2000,254,"Bulk Bricks",52
+2012,497,Books,52
+2018,494,Friends,52
+2000,1,Technic,53
+2015,435,Ninjago,53
+2003,458,Sports,54
+2025,497,Books,54
+2002,501,Gear,55
+2013,571,"Legends of Chima",55
+2016,605,"Nexo Knights",55
+2023,535,"Collectible Minifigures",55
+2019,52,City,56
+2024,52,City,56
+2024,158,"Star Wars",56
+1958,365,System,57
+1977,443,"Service Packs",57
+2011,535,"Collectible Minifigures",57
+2017,435,Ninjago,57
+2019,158,"Star Wars",57
+2015,535,"Collectible Minifigures",58
+2020,52,City,58
+2020,494,Friends,58
+2020,535,"Collectible Minifigures",58
+2021,52,City,58
+2014,535,"Collectible Minifigures",59
+2025,52,City,59
+2006,324,Bionicle,60
+2023,52,City,60
+2002,524,"Service Packs",61
+2013,535,"Collectible Minifigures",61
+2003,324,Bionicle,63
+2014,571,"Legends of Chima",64
+2016,158,"Star Wars",64
+2022,52,City,64
+1999,50,Town,65
+2017,158,"Star Wars",65
+2019,535,"Collectible Minifigures",65
+2018,158,"Star Wars",69
+2015,158,"Star Wars",70
+2017,535,"Collectible Minifigures",70
+2003,501,Gear,72
+2018,535,"Collectible Minifigures",75
+2012,535,"Collectible Minifigures",76
+2013,497,Books,76
+2019,497,Books,78
+2015,497,Books,79
+2016,535,"Collectible Minifigures",83
+2020,497,Books,84
+2018,497,Books,85
+2014,497,Books,88
+2006,501,Gear,92
+2024,497,Books,92
+2017,497,Books,93
+2021,497,Books,98
+1987,443,"Service Packs",101
+2016,497,Books,101
+2014,524,"Service Packs",102
+1966,365,System,103
+2010,501,Gear,104
+2022,497,Books,107
+2023,497,Books,116
+2008,501,Gear,117
+2009,501,Gear,126
+2011,501,Gear,151
+2007,501,Gear,152
+2012,501,Gear,169
+2013,501,Gear,172
+2016,501,Gear,183
+2014,501,Gear,209
+2015,501,Gear,221
+2025,501,Gear,236
+2018,501,Gear,283
+2023,501,Gear,285
+2020,501,Gear,318
+2019,501,Gear,335
+2024,501,Gear,337
+2021,501,Gear,341
+2017,501,Gear,346
+2022,501,Gear,392
