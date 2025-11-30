@@ -19,4 +19,4 @@ To get the Rebrickable Data, follow these steps:
 
 |
 
-3. Once all the csv file data is in the RebrickableData folder, follow the steps in the ReadMe.md in the main folder.
+3. Once all the csv file data is in the RebrickableData folder, follow the steps in the ReadMe.md in the root folder.

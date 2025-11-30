@@ -8,7 +8,7 @@ SQLITE = sqlite3
 all: build
 
 # Clean + rebuild database from scratch
-build: clean create import transform export
+build: clean dropcore dropfig create import transform export
 	@echo "All done building LEGO minifigure head dataset!"
 
 #Step 1: create tables
@@ -28,7 +28,7 @@ transform:
 	$(SQLITE) $(DB) ".read derive_categories.sql"
 	$(SQLITE) $(DB) ".read themes_by_year.sql"
 
-# Step 4: export CSVs to folder ./exports
+# Step 4: export CSVs to folder
 export:
 	@echo "Exporting CSV files..."
 	$(SQLITE) $(DB) ".read export_head_data.sql"
