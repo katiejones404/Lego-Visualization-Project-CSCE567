@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20252.25.0710.1712                               -->
+<workbook original-version='18.1' source-build='2025.2.1 (20252.25.0710.1712)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='head_data_categories' inline='true' name='federated.0ksptcy0fzdli111gzpxs0hemmhz' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='head_data_categories' name='textscan.0n60awy1trx8g81gqwh6c1eujcdo'>
+            <connection class='textscan' directory='C:/Users/katie/Documents/CSCE567/FinalProject/Lego-Visualization-Project-CSCE567/MinifigData' filename='head_data_categories.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0n60awy1trx8g81gqwh6c1eujcdo' name='head_data_categories.csv' table='[head_data_categories#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='set_num' ordinal='0' />
+            <column datatype='string' name='set_name' ordinal='1' />
+            <column datatype='integer' name='set_year' ordinal='2' />
+            <column datatype='string' name='parent_theme_name' ordinal='3' />
+            <column datatype='string' name='part_num' ordinal='4' />
+            <column datatype='string' name='part_name' ordinal='5' />
+            <column datatype='integer' name='element_id' ordinal='6' />
+            <column datatype='string' name='element_color_name' ordinal='7' />
+            <column datatype='string' name='skin_tone_group' ordinal='8' />
+            <column datatype='string' name='gender_group' ordinal='9' />
+            <column datatype='string' name='figure_type' ordinal='10' />
+            <column datatype='integer' name='quantity' ordinal='11' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>set_num</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[set_num]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>set_num</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>set_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[set_name]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>set_name</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>set_year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[set_year]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>set_year</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>parent_theme_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[parent_theme_name]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>parent_theme_name</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>part_num</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[part_num]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>part_num</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>part_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[part_name]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>part_name</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>element_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[element_id]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>element_id</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>element_color_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[element_color_name]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>element_color_name</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>skin_tone_group</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[skin_tone_group]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>skin_tone_group</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender_group</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender_group]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>gender_group</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>figure_type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[figure_type]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>figure_type</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>quantity</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[quantity]</local-name>
+            <parent-name>[head_data_categories.csv]</parent-name>
+            <remote-alias>quantity</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='DarkerTones' datatype='integer' name='[Calculation_5152117985824632832]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='IF [skin_tone_group] = &quot;Medium&quot; or [skin_tone_group] = &quot;Dark&quot;&#13;&#10;THEN [quantity]&#13;&#10;END' />
+      </column>
+      <column caption='head_data_categories.csv' datatype='table' name='[__tableau_internal_object_id__].[head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA]' role='measure' type='quantitative' />
+      <column caption='Element Color Name' datatype='string' name='[element_color_name]' role='dimension' type='nominal' />
+      <column caption='Element Id' datatype='integer' name='[element_id]' role='dimension' type='ordinal' />
+      <column caption='Figure Type' datatype='string' name='[figure_type]' role='dimension' type='nominal' />
+      <column caption='Gender Group' datatype='string' name='[gender_group]' role='dimension' type='nominal' />
+      <column caption='Parent Theme Name' datatype='string' name='[parent_theme_name]' role='dimension' type='nominal' />
+      <column caption='Part Name' datatype='string' name='[part_name]' role='dimension' type='nominal' />
+      <column caption='Part Num' datatype='string' name='[part_num]' role='dimension' type='nominal' />
+      <column caption='Quantity' datatype='integer' name='[quantity]' role='measure' type='quantitative' />
+      <column caption='Set Name' datatype='string' name='[set_name]' role='dimension' type='nominal' />
+      <column caption='Set Num' datatype='string' name='[set_num]' role='dimension' type='nominal' />
+      <column caption='Set Year' datatype='integer' name='[set_year]' role='dimension' type='quantitative' />
+      <column caption='Skin Tone Group' datatype='string' name='[skin_tone_group]' role='dimension' type='nominal' />
+      <column-instance column='[skin_tone_group]' derivation='None' name='[none:skin_tone_group:nk]' pivot='key' type='nominal' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:skin_tone_group:nk]' type='palette'>
+            <map to='#5d2616'>
+              <bucket>&quot;Dark&quot;</bucket>
+            </map>
+            <map to='#a86830'>
+              <bucket>&quot;Medium&quot;</bucket>
+            </map>
+            <map to='#d9ae8f'>
+              <bucket>&quot;Light&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='head_data_categories.csv' id='head_data_categories.csv_97AC9113B3DD481F8DBCC5C6EE7E94CA'>
+            <properties context=''>
+              <relation connection='textscan.0n60awy1trx8g81gqwh6c1eujcdo' name='head_data_categories.csv' table='[head_data_categories#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='set_num' ordinal='0' />
+                  <column datatype='string' name='set_name' ordinal='1' />
+                  <column datatype='integer' name='set_year' ordinal='2' />
+                  <column datatype='string' name='parent_theme_name' ordinal='3' />
+                  <column datatype='string' name='part_num' ordinal='4' />
+                  <column datatype='string' name='part_name' ordinal='5' />
+                  <column datatype='integer' name='element_id' ordinal='6' />
+                  <column datatype='string' name='element_color_name' ordinal='7' />
+                  <column datatype='string' name='skin_tone_group' ordinal='8' />
+                  <column datatype='string' name='gender_group' ordinal='9' />
+                  <column datatype='string' name='figure_type' ordinal='10' />
+                  <column datatype='integer' name='quantity' ordinal='11' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontsize='18'>Skin Tone Diversity Comparision: Lego Minifigures vs Minidolls Proportional Stacked Bar</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='head_data_categories' name='federated.0ksptcy0fzdli111gzpxs0hemmhz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ksptcy0fzdli111gzpxs0hemmhz'>
+            <column caption='Figure Type' datatype='string' name='[figure_type]' role='dimension' type='nominal' />
+            <column-instance column='[figure_type]' derivation='None' name='[none:figure_type:nk]' pivot='key' type='nominal' />
+            <column-instance column='[set_year]' derivation='None' name='[none:set_year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[skin_tone_group]' derivation='None' name='[none:skin_tone_group:nk]' pivot='key' type='nominal' />
+            <column-instance column='[quantity]' derivation='Sum' name='[pcto:sum:quantity:qk:2]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Columns' type='PctTotal' />
+            </column-instance>
+            <column caption='Quantity' datatype='integer' name='[quantity]' role='measure' type='quantitative' />
+            <column caption='Set Year' datatype='integer' name='[set_year]' role='dimension' type='quantitative' />
+            <column caption='Skin Tone Group' datatype='string' name='[skin_tone_group]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:figure_type:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:figure_type:nk]' member='&quot;Minidoll&quot;' />
+              <groupfilter function='member' level='[none:figure_type:nk]' member='&quot;Minifigure&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='quantitative' column='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:set_year:qk]' included-values='in-range'>
+            <min>2012</min>
+            <max>2025</max>
+          </filter>
+          <filter class='categorical' column='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:skin_tone_group:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:skin_tone_group:nk]' member='&quot;Dark&quot;' />
+              <groupfilter function='member' level='[none:skin_tone_group:nk]' member='&quot;Light&quot;' />
+              <groupfilter function='member' level='[none:skin_tone_group:nk]' member='&quot;Medium&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:skin_tone_group:nk]</column>
+            <column>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:figure_type:nk]</column>
+            <column>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:set_year:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='header'>
+            <format attr='height-header' value='80' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='18' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:figure_type:nk]' value='14' />
+            <format attr='font-weight' field='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:figure_type:nk]' value='bold' />
+            <format attr='font-size' field='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[pcto:sum:quantity:qk:2]' value='12' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:skin_tone_group:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[pcto:sum:quantity:qk:2]</rows>
+        <cols>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:figure_type:nk]</cols>
+      </table>
+      <simple-id uuid='{1EAEE644-F5CF-4841-B56D-4B94AD2D602D}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='138'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:skin_tone_group:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-width' />
+        <selection-collection>
+          <node-selection select-tuples='false'>
+            <oriented-node-reference orientation='vertical'>
+              <node-reference>
+                <axis>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[pcto:sum:quantity:qk:2]</axis>
+              </node-reference>
+              <page-reference />
+            </oriented-node-reference>
+          </node-selection>
+        </selection-collection>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:figure_type:nk]</field>
+            <field>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:set_year:qk]</field>
+            <field>[federated.0ksptcy0fzdli111gzpxs0hemmhz].[none:skin_tone_group:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{3716D981-49D9-4C84-A2FD-CD51FBBE2629}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

@@ -1,4 +1,4 @@
 *.db
-*.twb
-*.twbr
 RebrickableData/*.csv
+*.twbr
+Final-Project-Graph*

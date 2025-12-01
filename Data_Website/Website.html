@@ -1,0 +1,479 @@
+
+<style>
+  /* layout */
+  .row {
+    display: flex;
+    align-items: stretch;
+    gap: 16px; /* space between graph and text */
+    margin-bottom: 64px; /* space between rows */
+  }
+
+
+
+  /* half-width columns */
+  .half {
+    width: 50%;
+    box-sizing: border-box;
+  }
+
+  /* ensure tableau object fills its column */
+  .tableauPlaceholder {
+    width: 75%;
+    height: 100%;
+    position: relative;
+  }
+
+  .grid-container {
+    display: grid; /* Makes the container a grid container */
+    place-items: center; /* Centers children horizontally and vertically with one line */
+    height: 200px; /* Example height for the container */
+    margin-bottom: 60px;
+  }
+
+  strong {
+  font-weight: bold !important;
+}
+
+  body {
+    background-color: palevioletred;
+  }
+  .title-container {
+    background-color: white; /* Sets the background color to white */
+    padding: 10px; /* Adds space around the title inside the box */
+    margin-bottom: 20px; /* Adds space below the box */
+    border: 6px solid #f7b3c8;
+    border-radius:15px;
+    border-radius: 5px; /* Rounds the corners of the box */
+    box-shadow: 0 6px 8px rgba(.1, .1, .1, 0.15); /*subtle shadow */
+    display: inline-block;
+    align-content: center; 
+  }
+  .side-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 1.5;
+    padding: 20px;
+    background-color: #f7b3c8;   /* light pink */
+    border-radius: 12px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.15);
+  }
+    .center-text {
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 400px;
+    line-height: 1;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    padding-right: 80px;
+    padding-top: 20px;
+    width:1200px;
+    background-color: #f7b3c8;   /* light pink */
+    border-radius: 12px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.15);
+  }
+  h1 {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-weight: 450;
+    font-size: 40px;
+    line-height: 1;
+    padding: 10px;
+    text-align: center;
+    outline-color:pink;
+    outline-width:10px;
+  
+  }
+
+    body {
+      font-family: "Times New Roman", Times, serif;
+      font-size: 30px;
+      margin: 24px;
+      font-weight: 300;
+    }
+    header {
+      margin-bottom: 18px;
+      font-size: 24px;
+    }
+.schemapicture {
+  margin: 32px;
+  text-align: center;
+}
+
+.schemapicture img {
+  /* This makes the image 50% the width of its parent container. */
+  width: 50%;
+  /* height scales properly with the width. */
+  height: auto;
+  margin:16px;
+}
+</style>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
+
+</head>
+<body>
+
+  <div class="grid-container">
+    <div class="title-container">
+      <h1>My CSCE567 Final Project Website</h1>
+      <h1>Goal: Examine Racial Diversity Trends in Lego Minifigures</h1>
+    </div>
+  </div>
+
+<div class = "schemaPicture">
+<a href="https://rebrickable.com/downloads/"  target=”_blank”>
+<img src="https://rebrickable.com/static/img/diagrams/downloads_schema_v3.png" align="center"></a>
+    <div class="center-text">
+      <h3>Welcome to My Project</h3>
+      <p>
+        The goal of this project is to examine trends in racial diversity of Lego over time. Findings are discussed by each graph. 
+        Above is the database schema for this project, if you click the image you will see the source data.
+      </p>
+
+        <a href="https://github.com/katiejones404/Lego-Visualization-Project-CSCE567/tree/main">
+          <p>Link to GitHub with Code</p>
+        </a>
+
+    </div>
+
+</div>
+
+
+<!-- ROW 1:
+     Left: Line Graph (viz1764551097799)
+     Right: paragraph (to the right of the left graph) -->
+<div class="row">
+  <div class="half">
+    <!-- Left graph -->
+    <div
+      class="tableauPlaceholder"
+      id="viz1764551097799"
+      style="position: relative"
+    >
+      <noscript>
+        <a href="#"
+          ><img
+            alt="Frequency of Various Lego Skin Tones Since 1989"
+            src="https://public.tableau.com/static/images/Li/Line_Graph_17645510890410/Line_Graph/1_rss.png"
+            style="border: none"
+        /></a>
+      </noscript>
+
+      <object class="tableauViz" style="display: none">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="Line_Graph_17645510890410/Line_Graph" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param
+          name="static_image"
+          value="https://public.tableau.com/static/images/Li/Line_Graph_17645510890410/Line_Graph/1.png"
+        />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+        <param name="filter" value="publish=yes" />
+      </object>
+    </div>
+  </div>
+
+  <div class="half">
+    <!-- Paragraph to the right of the left graph -->
+    <div class="side-text">
+      <h3>Line Graph Notes</h3>
+      <p>
+        This line graph tracks the yearly counts of LEGO minifigure head colors from 1989 to the present day. 
+        Historically, LEGO used only “yellow” minifigure heads.
+        This visualization clearly shows this dominance through the early 2000s. Around 2004–2006, there is a sharp rise in realistic skin tones—light, medium, and dark—corresponding with LEGO’s shift toward licensed themes (Harry Potter, Star Wars, etc.) that required character-accurate skincolors.
+        In the 2010s and especially the 2020s, light and medium skin tones increase steadily, while dark tones grow more gradually but consistently. 
+        Non-human colors (e.g., blue, green) rise when sci-fi and fantasy themes expand.
+        
+      </p>
+      <p><strong>Key Finding:</strong> Diversity in skin tones has significantly increased since the mid-2000s, however lighter skin tones dominant the frequency of medium/dark skin colors.
+      </p>
+    </div>
+    </div>
+  </div>
+</div>
+
+<!-- ROW 2:
+     Left: paragraph (to the left of the right graph)
+     Right: Pi Chart (viz1764551507184) -->
+<div class="row">
+  <div class="half">
+    <!-- Paragraph to the left of the right graph -->
+    <div class="side-text">
+      <h3>Pi Chart Notes</h3>
+      <p>
+        This pie chart highlights which LEGO themes contribute the largest number of darker-tone minifigure heads. 
+        Star Wars dominates with over 600 such heads—likely because of its enormous catalog of characters and sets. 
+        Friends, Minecraft, and superhero themes also make major contributions. 
+      </p>
+      <p><strong>Key Finding:</strong> Themes with large world-building content (Star Wars, Friends) and modern franchises tend to drive the most representation of darker skin tone.       </p>
+        <p>It is important to note that Minecraft characters often use darker skin tones that do not necessarily represent a character’s race. These colors reflect the visual style of the Minecraft game rather than real-world skin tones.</p>
+    </div>
+  </div>
+
+  <div class="half">
+    <!-- Right graph -->
+    <div
+      class="tableauPlaceholder"
+      id="viz1764551507184"
+      style="position: relative"
+    >
+      <noscript>
+        <a href="#">
+          <img
+            alt="Top Ten Themes with Most Darker Minifigure Heads"
+            src="https://public.tableau.com/static/images/Pi/Pi_Chart/Pi_Chart/1_rss.png"
+            style="border: none"
+          />
+        </a>
+      </noscript>
+
+      <object class="tableauViz" style="display: none">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="Pi_Chart/Pi_Chart" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param
+          name="static_image"
+          value="https://public.tableau.com/static/images/Pi/Pi_Chart/Pi_Chart/1.png"
+        />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+        <param name="filter" value="publish=yes" />
+      </object>
+    </div>
+  </div>
+</div>
+
+<!-- ROW 3:
+     Left: Proportion Chart (viz1764553156164)
+     Right: Text -->
+<div class="row">
+
+  <!-- LEFT SIDE: Graph -->
+  <div class="half">
+    <div class="tableauPlaceholder" id="viz1764553156164" style="position: relative">
+      <noscript>
+        <a href="#">
+          <img
+            alt="Proportion of Skin Color Groups by Lego Theme"
+            src="https://public.tableau.com/static/images/Pr/Proportion_Chart/Proportion_Chart/1_rss.png"
+            style="border: none"
+          />
+        </a>
+      </noscript>
+
+      <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="Proportion_Chart/Proportion_Chart" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param
+          name="static_image"
+          value="https://public.tableau.com/static/images/Pr/Proportion_Chart/Proportion_Chart/1.png"
+        />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+        <param name="filter" value="publish=yes" />
+      </object>
+    </div>
+  </div>
+
+  <!-- RIGHT SIDE: Text -->
+  <div class="half">
+    <div class="side-text">
+      <h3>Proportion Chart Notes</h3>
+      <p>This chart can be filtered by Theme Name and Skin Tone Group. Add/remove theme names to see the proportion of different skin tone groups and add/remove skin tone groups to see how Non-Human, Yellow, Dark, Medium, and Light skin tone groups compare across themes.</p>
+      <p>
+        This chart shows Lego themes and the percentage breakdown of skin-tone categories within that theme. 
+        The bars reveal that some themes such as Friends, Super Heroes Marvel/DC, and Star Wars, feature noticeably higher representation of medium and dark skin tones, while older or niche themes still skew heavily light-toned.
+      </p>
+      <p><strong>Key Finding:</strong> Diversity is uneven across themes. Some lines demonstrate deliberate inclusion (due to licensed character's skin tones) while others remain closer to lighter color distributions.
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<!-- ROW 4:
+     Left: text
+     Right: Stacked Bar Chart (viz1764565192754) -->
+<div class="row">
+  <!-- LEFT SIDE: Text box -->
+  <div class="half">
+    <div class="side-text pink-box">
+      <h3>Stacked Bar Notes</h3>
+      <p> 
+        This visualization compares traditional minifigures with Lego's “minidoll” figures (used primarily in LEGO Friends and Disney lines). 
+        Minidolls overwhelmingly use light skin tones, with medium tones present but rare, and dark tones almost nonexistent. 
+        Minifigures, in contrast, show a broader range, though light tones still dominate.           
+      </p>
+      <p><strong>Key Finding:</strong>Minidolls remain less diverse than minifigures. 
+        This is especially noteworthy because the Friends line, which uses minidolls, is marketed for inclusive play, 
+        yet its skin tone distribution is similar and worse than Lego's figure type.
+    </div>
+  </div>
+
+  <!-- RIGHT SIDE: Graph -->
+  <div class="half">
+    <div class="tableauPlaceholder" id="viz1764565192754" style="position: relative">
+      <noscript>
+        <a href="#">
+          <img
+            alt="Skin Tone Diversity Comparison: Lego Minifigures vs Minidolls — Proportional Stacked Bar"
+            src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Stacked_Bar_Proportion&#47;Sheet1&#47;1_rss.png"
+            style="border: none"
+          />
+        </a>
+      </noscript>
+
+      <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="Stacked_Bar_Proportion&#47;Sheet1" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param
+          name="static_image"
+          value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Stacked_Bar_Proportion&#47;Sheet1&#47;1.png"
+        />
+
+<param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+        <param name="filter" value="publish=yes" />
+      </object>
+    </div>
+  </div>
+
+</div>
+
+<!-- ROW 5:
+     Left: Proportion Chart (viz1764559135874)
+     Right: Text
+-->
+<div class="row">
+
+  <!-- LEFT SIDE: Graph -->
+  <div class="half">
+    <div class="tableauPlaceholder" id="viz1764559135874" style="position: relative">
+      <noscript>
+        <a href="#">
+          <img
+            alt="Frequency of Lego Friends Skin Tones Since 2012"
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Li&#47;Line_Graph_Friends&#47;Line_Graph&#47;1_rss.png'
+            style="border: none"
+          />
+        </a>
+      </noscript>
+
+      <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value='Line_Graph_Friends&#47;Line_Graph' />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param
+          name="static_image"
+          value="https://public.tableau.com/static/images/Li/Line_Graph_Friends/Line_Graph/1.png"
+        />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+        <param name="filter" value="publish=yes" />
+      </object>
+    </div>
+  </div>
+
+  <!-- RIGHT SIDE: Text -->
+  <div class="half">
+    <div class="side-text">
+      <h3>Line Graph for Lego Friends Chart Notes</h3>
+      <p>
+        This chart focuses solely on the LEGO Friends theme, beginning with its launch of sets in 2012. 
+        Light skin tones dominate for the first decade. However, around 2023, there is a dramatic rise in darker and non-human tones.
+        This jump corresponds with the widely publicized 2023 Friends reboot, which emphasized diversity and inclusivity.
+      </p>
+      <p>  
+      <strong>Key Finding: </strong> Friends theme shows a recent, intentional redesign featuring more diverse skin tones. 
+      This is evidence of Lego's evolving approach to diversity in its sets.
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<script type="text/javascript">
+  (function loadAndSizeViz(vizId) {
+    var divElement = document.getElementById(vizId);
+    if (!divElement) return;
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = divElement.offsetWidth * 0.75 + "px";
+  })("viz1764551097799");
+
+  (function loadAndSizeViz(vizId) {
+    var divElement = document.getElementById(vizId);
+    if (!divElement) return;
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = divElement.offsetWidth * 0.75 + "px";
+  })("viz1764551507184");
+
+  (function loadAndSizeViz(vizId) {
+  var divElement = document.getElementById(vizId);
+  if (!divElement) return;
+  var vizElement = divElement.getElementsByTagName("object")[0];
+  vizElement.style.width = "100%";
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
+})("viz1764553156164");
+
+  (function loadAndSizeViz(vizId) {
+    var divElement = document.getElementById(vizId);
+    if (!divElement) return;
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = divElement.offsetWidth * 0.75 + "px";
+  })("viz1764559135874");
+
+  (function loadAndSizeViz(vizId) {
+    var divElement = document.getElementById(vizId);
+    if (!divElement) return;
+    var vizElement = divElement.getElementsByTagName("object")[0];
+    vizElement.style.width = "100%";
+    vizElement.style.height = divElement.offsetWidth * 0.75 + "px";
+  })("viz1764565192754");
+
+
+</script>

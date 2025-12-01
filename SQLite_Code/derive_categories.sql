@@ -15,6 +15,7 @@ SELECT
     -- --- SKIN TONE CATEGORY ---
     CASE
         WHEN r.element_color_name = 'Light Nougat' THEN 'Light'
+        WHEN r.element_color_name = 'Warm Tan' THEN 'Light'
         WHEN r.element_color_name = 'Nougat' THEN 'Light'
         WHEN r.element_color_name = 'Tan' THEN 'Medium'        
         WHEN r.element_color_name = 'Medium Nougat' THEN 'Medium'
@@ -26,6 +27,8 @@ SELECT
         WHEN r.element_color_name = 'Brown' THEN 'Dark'
         WHEN r.element_color_name = 'Dark Orange' THEN 'Dark'
         WHEN r.element_color_name = 'Dark Brown' THEN 'Dark'
+        WHEN r.element_color_name = 'Umber Brown' THEN 'Dark'
+        WHEN r.element_color_name = 'Sienna Brown' THEN 'Dark'
         WHEN r.element_color_name = 'Yellow' THEN 'Yellow'        
 
 
