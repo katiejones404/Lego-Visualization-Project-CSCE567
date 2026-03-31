@@ -1,4 +1,10 @@
 *.db
 RebrickableData/*.csv
 *.twbr
+*.csv
+.csv
 Final-Project-Graph*
+.RData
+.Rhistory
+*.twb
+MinifigData/*.csv
