@@ -8,3 +8,6 @@ Final-Project-Graph*
 .Rhistory
 *.twb
 MinifigData/*.csv
+head_data.csv
+head_data_categories.csv
+themes_by_year.csv
